@@ -1,0 +1,26 @@
+<html>
+<body bgcolor="grey">
+	<center>
+	<img src=ans-logo.png height="279" width="572">
+	<h1>
+	SOLVE IT. AUTOMATE IT. SHARE IT. <br><br>
+	You can find the code for this demo at https://github.com/fazifs/dcFailover
+	</h1>
+	<center>
+	<table>
+		<tr>
+			<th width="33%">
+				<img src=ansible-diagram-2.png><br><p>
+				
+			</th>
+			<th width="33%">
+			</th>
+			<th width="33%">
+				<img src=ansible-diagram-1.gif><br><p>
+				
+			</th>
+		</tr>
+	</table>
+	</center>
+</body>
+<html>
