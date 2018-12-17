@@ -1,0 +1,6 @@
+
+- name: geerlingguy.ntp
+
+- src: https://github.com/fazifs/common-linux.git
+  scm: git
+  name: fazifs.common-linux
