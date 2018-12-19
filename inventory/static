@@ -1,6 +1,13 @@
+
 repo
 tower
+
+[loadbalancers]
 lb0001
+
+[webservers]
 web0001
 web0002
+
+[monitoring]
 nagios
