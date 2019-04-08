@@ -1,7 +1,9 @@
 ---
 # Tokens Bot
 #tokenBot: 'bot525896941:AAFAOe-jUEC7lMdIf9G6lSGOtuzHPenNA70'
-tokenBot: '525896941:AAFAOe-jUEC7lMdIf9G6lSGOtuzHPenNA70'
+#tokenBot: '525896941:AAFAOe-jUEC7lMdIf9G6lSGOtuzHPenNA70'
+tokenBot: '871909373:AAHYEA3ApjXXdvVm670GiYa7oEhdLm0WkNQ'
 
 # Chat IDs
-chatID: -265560840	# Ansible Demo Group
+#chatID: -265560840	# Ansible Demo Group
+chatID: -1001160286622	# Ansible Demo Group
