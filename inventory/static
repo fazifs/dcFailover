@@ -3,11 +3,11 @@ repo
 tower
 
 [loadbalancers]
-lb0001
+lb01
 
 [webservers]
-web0001
-web0002
+web01
+web02
 
 [monitoring]
-nagios
+mon01
