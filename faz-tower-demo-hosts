@@ -1,0 +1,8 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.9.61.146     repo
+10.9.61.96     tower
+10.9.61.173     lb01
+10.9.61.177     web01
+10.9.61.134     web02
+10.9.61.140    nagios
